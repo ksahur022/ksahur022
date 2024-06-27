@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm Shreya Kaushik</h1>
-<h3 align="center">CSE Undergrad</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+
+<img align="right" src="https://i.pinimg.com/originals/75/f1/54/75f15418fc8c2af5b8379857795c174b.jpg" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksahur022&label=Profile%20views&color=0e75b6&style=flat" alt="ksahur022" /> </p>
+<h3 align="left">CSE Undergrad</h3>
 
+
+<br>
+<br>
+<br>
 
 
 - 🔭 I’m currently working on **Eco-Parali**
-
 - 🌱 I’m currently learning **Web Development**
-
 - 📝 I write articles on [medium](medium)
-
-- 💬 Ask me about **graphic designing, react**
-
+- 💬 Ask me about **graphic designing, web development**
 - 📫 How to reach me **kaushikshreya07@gmail.com**
+<!--- ⚡ Fun fact **I'm a big foodiee**-->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-- ⚡ Fun fact **I'm a big foodiee**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +53,8 @@
 	
 	
   <img src="https://github-readme-stats.vercel.app/api?username=ksahur022&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <br>
+  <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksahur022&theme=highcontrast&hide_border=true&background=000000&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="ksahur022" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksahur022&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="ksahur022"/>
   <br/>
@@ -58,8 +69,7 @@
 </a>
 </div>
 
-<br>
-<br>
+
 <br>
 
 
