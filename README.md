@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Kaushik</h1>
+<h1 align="center">Heyy, I'm Shreya Kaushik</h1>
 
 
 
@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksahur022&label=Profile%20views&color=0e75b6&style=flat" alt="ksahur022" /> </p>
 <h3 align="left">CSE Undergrad</h3>
+<p>Passionate software developer leveraging GitHub for collaborative coding and version control. Explore my journey through projects that push boundaries and solve real-world problems.</p>
 
 
-<br>
-<br>
+
 <br>
 
 
@@ -17,16 +17,12 @@
 - 🌱 I’m currently learning **Web Development**
 - 📝 I write articles on [medium](medium)
 - 💬 Ask me about **graphic designing, web development**
-- 📫 How to reach me **kaushikshreya07@gmail.com**
+- 📫 Reach me at **kaushikshreya07@gmail.com**
 <!--- ⚡ Fun fact **I'm a big foodiee**-->
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
